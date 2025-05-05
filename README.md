@@ -1,6 +1,4 @@
-# Splunk
-Threat Detection with Splunk
-# Splunk Threat Detection Capstone
+# Splunk Threat Detection
 
 A practical security monitoring solution leveraging **Splunk Enterprise**, **MITRE ATT&CK framework**, and **SOAR automation**, designed to simulate a functional Security Operations Center (SOC).
 
