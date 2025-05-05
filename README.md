@@ -17,7 +17,7 @@ A practical security monitoring solution leveraging **Splunk Enterprise**, **MIT
    - macOS (for testing and flexibility)
 
 2. Deploy **Splunk Universal Forwarder** on local systems
-3. Ingest data (e.g., BufferCup Games logs)
+3. Ingest data (e.g., ButterCup Games logs)
 
 ## 📂 MITRE-Aligned Detection Queries
 
